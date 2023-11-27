@@ -22,7 +22,7 @@ In addition to accident detection, the system employs deep learning techniques f
 
 2.Alerts and Notifications: The system triggers alerts and notifies emergency services upon detecting an accident.
 
-3.Traffic Control at Junctions: Utilizing cameras and image processing, the system identifies and tracks vehicles to dynamically adjust signal timings, optimizing traffic flow.
+3.Traffic Control: Utilizing cameras and image processing, the system identifies and tracks vehicles to dynamically adjust signal timings, optimizing traffic flow.
 
 # Implementation
 The proposed system utilizes state-of-the-art deep learning techniques, ensuring efficient accident detection and traffic control. The repository includes code for dataset preparation, model training, and system implementation.
